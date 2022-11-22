@@ -25,17 +25,17 @@
       institution: Isle Utilities
       year: Nov 2021 - <br>Jul 2022
       description:
-        - Performing comprehensive technology scans on areas including water conservation, leakage management, and waste to energy
-        - Creating communication materials for clients including reports, emails, videos, and presentations.
+        - Performed comprehensive <a href="/projects/tech-scans">technology scans</a> on areas including water conservation, leakage management, and waste to energy
+        - Created communication materials for clients including reports, emails, videos, and presentations.
         - Drafted trial proposals for collaborative trials of technologies.
 
     - title: Engineering Intern in Research and Development Department
       institution: Jenkins Engineering Defence Systems
       year: Aug 2019 - <br>Feb 2020
       description:
-        - Created Signal Generator GUI application in MATLAB that interfaced with software defined radios to transmit pre-set or user defined signals.
-        - Developed Signal Analyser GUI in MATLAB, allowing a quick overview of signal characteristics or in-depth analysis.
-        - Created system to record sensor data from an IMU to a single board computer using C++. 
+        - Created system to <a href="/projects/imu-logger">record sensor data from an IMU</a> to a single board computer using C++. 
+        - Created <a href="/projects/signal-generation">Signal Generator GUI application</a> in MATLAB that interfaced with software defined radios to transmit pre-set or user defined signals.
+        - Developed <a href="/projects/signal-processing">Signal Analyser GUI</a> in MATLAB, allowing a quick overview of signal characteristics or in-depth analysis.
 
     - title: Assistant Lab Tutor for Introduction to Electrical Engineering
       institution: University of Technology Sydney
@@ -50,12 +50,13 @@
     - title: <a href="/projects/capstone">Exoskeleton Arm Control Software - Capstone</a>
       year: 2021-2022
       description:
-        - Researched exoskeleton control schemes, and improved the existing control software by developing a simulation for the arm, implementing a seamless switching mechanism between controller types, and improving documentation and maintainability.
+        - Improved the control software for the JEXO exoskeleton arm by developing a simulation for the robot, implementing a seamless switching mechanism between controller types, and improving documentation and maintainability.
+        - Reviewed the literature on exoskeleton control systems and proposed improvements to be implemented in the future.
 
     - title: Underwater Robot Localisation - Mechanical and Mechatronic Design
       year: SPR 2021
       description: 
-        - Worked in a team in collaboration with Thales on a project researching UUV communication and designing a method of localisation between two UUVs.
+        - Worked in a team in collaboration with Thales on a project researching UUV communication, and designing a method of localisation between two UUVs.
     
     - title: <a href="/projects/tic-tac-toe-bot">Tic-Tac-Toe Bot - Robotics</a>
       year: AUT 2021
