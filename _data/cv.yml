@@ -33,9 +33,9 @@
       institution: Jenkins Engineering Defence Systems
       year: Aug 2019 - <br>Feb 2020
       description:
+        - Created system to <a href="/projects/imu-logger">record sensor data from an IMU</a> to a single board computer using C++. 
         - Created <a href="/projects/signal-generation">Signal Generator GUI application</a> in MATLAB that interfaced with software defined radios to transmit pre-set or user defined signals.
         - Developed <a href="/projects/signal-processing">Signal Analyser GUI</a> in MATLAB, allowing a quick overview of signal characteristics or in-depth analysis.
-        - Created system to <a href="/projects/imu-logger">record sensor data from an IMU</a> to a single board computer using C++. 
 
     - title: Assistant Lab Tutor for Introduction to Electrical Engineering
       institution: University of Technology Sydney
