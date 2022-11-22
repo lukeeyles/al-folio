@@ -203,6 +203,7 @@ blockquote {
     }
   }
   .navbar-brand {
+    font-family: $heading-font-family;
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
