@@ -1,7 +1,7 @@
 ---
 layout: page
 title: technology scans
-description: Scans to map technology landscape and identify potential trial opportunities
+description: Research to map technology landscape and identify potential trial opportunities.
 img: assets/img/tech-selection.png
 importance: 3
 category: professional
