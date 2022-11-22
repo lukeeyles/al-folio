@@ -2,96 +2,104 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Luke Eyles
+    - name: Email
+      value: <a href="mailto:lukebeyles@gmail.com">lukebeyles@gmail.com</a>
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/luke-eyles/">luke-eyles</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Mechanical and Mechatronic Engineering, Diploma in Professional Engineering Practice
+      institution: University of Technology Sydney
+      year: 2017-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 6.55/7.00, High Distinction average."
+        - Dean's List 2022, 2020, 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Technology Consulting Intern
+      institution: Isle Utilities
+      year: Nov 2021 - <br>Jul 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Performing comprehensive technology scans on areas including water conservation, leakage management, and waste to energy
+        - Creating communication materials for clients including reports, emails, videos, and presentations.
+        - Drafted trial proposals for collaborative trials of technologies.
+
+    - title: Engineering Intern in Research and Development Department
+      institution: Jenkins Engineering Defence Systems
+      year: Aug 2019 - <br>Feb 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Created Signal Generator GUI application in MATLAB that interfaced with software defined radios to transmit pre-set or user defined signals.
+        - Developed Signal Analyser GUI in MATLAB, allowing a quick overview of signal characteristics or in-depth analysis.
+        - Created system to record sensor data from an IMU to a single board computer using C++. 
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Assistant Lab Tutor for Introduction to Electrical Engineering
+      institution: University of Technology Sydney
+      year: Mar 2018 - <br>Jun 2018
       description:
+        - Explained electrical concepts and components.
+        - Debugged students' circuits and walked through how to fix the error.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Academic Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="/projects/capstone">Exoskeleton Arm Control Software - Capstone</a>
+      year: 2021-2022
+      description:
+        - Researched exoskeleton control schemes, and improved the existing control software by developing a simulation for the arm, implementing a seamless switching mechanism between controller types, and improving documentation and maintainability.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Underwater Robot Localisation - Mechanical and Mechatronic Design
+      year: SPR 2021
+      description: 
+        - Worked in a team in collaboration with Thales on a project researching UUV communication and designing a method of localisation between two UUVs.
+    
+    - title: <a href="/projects/tic-tac-toe-bot">Tic-Tac-Toe Bot - Robotics</a>
+      year: AUT 2021
+      description: 
+        - Led team to program a Dobot Magician robot arm to play tic-tac-toe with a person.
 
-- title: Academic Interests
+    - title: <a href="/projects/turtlebot">Cereal Finding Robot - Sensors and Control for Mechatronic Systems</a>
+      year: AUT 2021
+      description: 
+        - Led team to program a TurtleBot to recognise cereal boxes, determine their position and rotation and drive towards them.
+
+    - title: <a href="/projects/aircraft-interceptor">Aircraft Interceptor - Programming for Mechatronic Systems</a>
+      year: SPR 2020
+      description: 
+        - Programmed a simulated aircraft in C++ to intercept enemy aircraft by predicting their trajectory.
+
+    - title: <a href="/projects/arduino-security">Arduino Security System - Mechatronics 2</a>
+      year: AUT 2020
+      description: 
+        - Built an Arduino security system using a distance sensor mounted on a motor, capable of mapping a room and detecting intruders.
+
+    - title: Warman Challenge 2019 - Mechanical Design 1
+      year: AUT 2019
+      description: 
+        - Designed and build a robot to attempt the 2019 Warman Design and Build Challenge as part of a team.
+
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Technical Skills
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <b>Robot Operating System (ROS):</b> Controlling real and simulated robots in MATLAB and C++, processing incoming sensor messages, visualising using RViz.
+        - <b>C++:</b> Object oriented programming, using threads to process and send multiple streams of data, compiling using CMake, generating documentation with Doxygen.
+        - <b>MATLAB:</b> Image processing, signal processing, robotics using Peter Corke's Robotics Toolbox and ROS Toolbox, GUI programming using App Designer.
+        - <b>Microcontrollers:</b> Interfacing with sensors, controlling LCD screen and motors, using timers.
+        - <b>Git:</b> Version control and collaboration.
+        - <b>Solidworks:</b> Designing parts, performing FEA, creating assemblies, creating and interpreting technical drawings.
+        - <b>Blender:</b> Creating meshes, using modifiers, applying procedural and image-based textures.
+        - <b>Python:</b> Scripting.
+        - <b>Microsoft Excel:</b> Recording data, using formulas, creating charts, sorting and filtering data.
+    - title: Core Skills
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - <b>Team leadership:</b> Successfully divided work between team members, coordinated different parts of the project, organised team meetings, and ensured deadlines were met for the major robotics project in Sensors and Control.
+        - <b>Verbal communication skills:</b> Listened to requirements and drafted a formal project specification, participated in team meetings by contributing new ideas and adding to others' ideas, and gave project updates and presentations when working on the Mechanical and Mechatronic Design project with Thales.
+        - <b>Written communication skills:</b> Wrote reports, newsletters, and technology webinar invitations which were sent to an audience of over 600 water utility engineers and innovation leads while working at Isle Utilities.
+        - <b>Visual communication skills:</b> Illustrated diagrams to communicate concepts to others clearly in presentations, reports, and tutoring.
+        - <b>Time management:</b> Tracked tasks for team and individual projects using project management software, set deadlines for project milestones, worked flexibly to changing requirements, and used calendar to manage deadlines for work and university.
