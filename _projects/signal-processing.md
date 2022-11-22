@@ -1,6 +1,6 @@
 ---
 layout: page
-title: signal processing app
+title: signal analyser app
 description: MATLAB GUI app to analyse radio signals.
 img: assets/img/signal-processing-thumbnail.jpg
 importance: 3
