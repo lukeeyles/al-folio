@@ -1,7 +1,7 @@
 ---
 layout: page
 title: signal generation app
-description: MATLAB GUI app to generate custom radio signals to transmit by interfacing with a software defined radio.
+description: MATLAB GUI app to generate and transmit custom radio signals.
 img: assets/img/chirp.png
 importance: 2
 category: professional
