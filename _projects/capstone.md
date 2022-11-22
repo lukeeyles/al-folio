@@ -26,4 +26,4 @@ Using [Gazebo simulator](https://gazebosim.org/home) together with integration f
 
 I also created detailed documentation for the new codebase. Together with the improved modularity, this allows future controllers to be developed more easily as it reduces the time to learn and understand the control software. Overall, my work on this project greatly improved the functionality of JEXO as a research platform.
 
-Read my full thesis [here](/assets/pdf/capstone.pdf).
+Read my full thesis <a href="/assets/pdf/Luke-Eyles-Capstone.pdf" target="_blank">here</a>.
