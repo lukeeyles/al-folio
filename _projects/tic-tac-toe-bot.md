@@ -17,7 +17,7 @@ For my major project in the university subject Robotics, I led a team with two o
     </div>
 </div>
 <div class="caption">
-    Video I made with the team explaining the features of the system.
+    Video of the team explaining the features of the system.
 </div>
 
 The project was made in MATLAB, with Peter Corke's Robotics Toolbox used to compute the forward kinematics and Jacobian, and animate the robot. A Raspberry Pi running ROS was used to control the Dobot, and commands were sent over the network using MATLAB's ROS Toolbox.
