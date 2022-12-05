@@ -7,7 +7,7 @@ importance: 4
 category: academic
 ---
 
-In Programming for Mechatronic Systems at university, a project I undertook was to use C++ with ROS to predict the trajectory of enemy aircraft and intercept them in a simulated 2D airspace. By developing an algorithm to predict the interception point, I averaged 60 intercepted within 5 minutes, exeeding the threshold for bonus marks by 50%.
+In Programming for Mechatronic Systems at university, a project I undertook was to use C++ with ROS to predict the trajectory of enemy aircraft and intercept them in a simulated 2D airspace. By developing an algorithm to predict the interception point, I averaged 60 intercepted within 5 minutes, exceeding the threshold for bonus marks by 50%.
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">

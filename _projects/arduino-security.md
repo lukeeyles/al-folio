@@ -22,7 +22,9 @@ Mapping mode scanned the room and created an ASCII map of occupied and unoccupie
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe width="700" height="394" src="https://www.youtube.com/embed/kGq7JqLd3MY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <div class="iframe-container">
+            <iframe width="700" height="394" src="https://www.youtube.com/embed/kGq7JqLd3MY" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
     </div>
 </div>
 <div class="caption">

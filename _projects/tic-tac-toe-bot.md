@@ -17,7 +17,7 @@ For my major project in the university subject Robotics, I led a team with two o
     </div>
 </div>
 <div class="caption">
-    Video I made with the team explaining the features of the system.
+    Video of the team explaining the features of the system.
 </div>
 
 The project was made in MATLAB, with Peter Corke's Robotics Toolbox used to compute the forward kinematics and Jacobian, and animate the robot. A Raspberry Pi running ROS was used to control the Dobot, and commands were sent over the network using MATLAB's ROS Toolbox.
@@ -26,4 +26,4 @@ A webcam was used with MATLAB's Image Processing Toolbox to detect when the pers
 
 Inverse kinematics of the Dobot were required to control it to pick up the tiles and place them down in the right position. The inverse kinematics of the Dobot are unique in that it has 4 joints, but only 3 degrees of freedom as the end effector always points down. This meant that the built in inverse kinematics function in Peter Corke's Robotics Toolbox couldn't be used, so a custom inverse kinematics function was developed. This custom function had the advantage of being an exact solution, making it faster than the built in function which used an optimisation approach.
 
-This project was the largest team project I had worked on, and it was challenging to coordinate the team and ensure everyone had a part to work on. As a result I learned the importance of good project planning, so that everyone is on the same page about what needs to be done and clear roles can be assigned. Without this planning, it was difficult for everyone in the team to contribute equally.
+This project was the largest team project I had worked on at the time, and it was challenging to coordinate the team and ensure everyone had a part to work on. As a result I learned the importance of good project planning, so that everyone is on the same page about what needs to be done and clear roles can be assigned. Without this planning, it was difficult for everyone in the team to contribute equally.
