@@ -2,7 +2,7 @@
 layout: page
 title: capstone
 description: Control software for JEXO exoskeleton arm.
-img: assets/img/jexo.gif
+img: assets/img/jexo-me.gif
 importance: 1
 category: academic
 ---

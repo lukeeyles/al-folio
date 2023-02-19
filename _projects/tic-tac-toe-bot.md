@@ -2,7 +2,7 @@
 layout: page
 title: tic-tac-toe bot
 description: Robot arm that plays tic-tac-toe with a person.
-img: assets/img/tic-tac-toe-bot.gif
+img: assets/img/tic-tac-toe-bot-small.gif
 importance: 2
 category: academic
 ---
