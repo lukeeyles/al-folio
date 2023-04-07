@@ -21,6 +21,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Graduate Acoustic Engineer
+      institution: Octave Acoustics
+      year: Mar 2023 - <br>Present
+      description:
+        - Modelling environmental acoustics with CadnaA and performing acoustics calculations using Strutt with Excel.
+        - Performing field measurements and analysing results.
+
     - title: Technology Consulting Intern
       institution: Isle Utilities
       year: Nov 2021 - <br>Jul 2022

@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a recent Mechanical and Mechatronic engineering graduate from the [University of Technology Sydney](https://www.uts.edu.au/). I have a particular interest in robotics, having worked on the control software for an exoskeleton arm for my university [capstone project](projects/capstone).
+Hi! I'm a recent Mechanical and Mechatronic engineering graduate from the [University of Technology Sydney](https://www.uts.edu.au/). I have a particular interest in robotics and automation, having worked on the control software for an exoskeleton arm for my university [capstone project](projects/capstone). Currently I'm working as a Graduate Acoustic Engineer for [Octave Acoustics](https://www.octaveacoustics.com.au/), where I'm modelling environmental and building acoustics and taking field measurements.
 
 Previously, I've been an Engineering Intern for [Jenkins Engineering Defence Systems](https://www.jeds.com.au/), where I designed a robust system to autonomously record sensor data from an IMU to a single board computer, and developed MATLAB apps to analyse and transmit radio signals.
 
