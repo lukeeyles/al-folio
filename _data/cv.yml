@@ -25,8 +25,9 @@
       institution: Octave Acoustics
       year: Mar 2023 - <br>Present
       description:
+        - Applying Australian and international standards in performing field measurements and acoustic analysis.
         - Modelling environmental acoustics with CadnaA and performing acoustics calculations using Strutt with Excel.
-        - Performing field measurements and analysing results.
+        - Preparing acoustic reports for clients and advising design changes to ensure regulatory requirements are fulfilled.
 
     - title: Technology Consulting Intern
       institution: Isle Utilities
@@ -51,29 +52,52 @@
         - Explained electrical concepts and components.
         - Debugged students' circuits and walked through how to fix the error.
 
-- title: Academic Projects
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming languages/tools:</b> MATLAB, C++, Embedded C, Python, ROS, Bash, Git, VSCode.
+    - <b>Hardware:</b> Audio and Acoustic Analyser, Arduino, Raspberry Pi, FPGA, Oscilloscope, 3D Printer.
+    - <b>Software:</b> CadnaA, NTi Software, Microsoft Excel, SolidWorks, Blender, AutoCAD, Intel Quartus Prime.
+
+- title: Projects
   type: time_table
   contents:
     - title: <a href="/projects/capstone">Exoskeleton Arm Control Software - Capstone</a>
       year: 2021-2022
       description:
-        - Improved the control software for the JEXO exoskeleton arm by developing a simulation for the robot, implementing a seamless switching mechanism between controller types, and improving documentation and maintainability.
-        - Reviewed the literature on exoskeleton control systems and proposed improvements to be implemented in the future.
+        - Redesigned and programmed control software for the JEXO exoskeleton arm at UTS Robotics Institute, using C++ with ROS.
+        - Implemented a seamless and extensible controller switching system, enabling testing different control schemes or switching to remote control without restarting.
+        - Created extensive documentation to reduce onboarding time to the project, improving the functionality of JEXO as a research platform.
+        - Integrated a Gazebo simulation to enable offline testing of control schemes.
+    
+    - title: Spotify Playlist Generator - Personal Project
+      year: DEC 2022
+      description:
+        - Programmed a Python script to pull popular posts from a music forum and create a Spotify playlist of the featured songs.
+        - Used Regex to analyse post titles for artist and song name.
+        - Interfaced with the Spotify API to search for each song and add it to the playlist, using fuzzy matching to account for mistakes or differences between the forum and Spotify listing.
+        - Improved performance by creating a database of previously matched songs using pandas.
 
     - title: Underwater Robot Localisation - Mechanical and Mechatronic Design
       year: SPR 2021
       description: 
-        - Worked in a team in collaboration with Thales on a project researching UUV communication, and designing a method of localisation between two UUVs.
+        - Researched and designed a unique localisation method for autonomous underwater vehicles (AUVs) as part of a team in collaboration with Thales.
+        - Calculated mean and worst-case localisation error for the method using MATLAB, and proposed an iterative solution to overcome large error values.
+        - Documented the solution in a detailed report, and developed a simulation in C++ with ROS as a proof of concept to demonstrate the method in action.
     
     - title: <a href="/projects/tic-tac-toe-bot">Tic-Tac-Toe Bot - Robotics</a>
       year: AUT 2021
       description: 
-        - Led team to program a Dobot Magician robot arm to play tic-tac-toe with a person.
+        - Led team to program a DOBOT Magician robot arm to play tic-tac-toe with a person, controlled using MATLAB with the ROS Toolbox.
+        - Utilised the Image Processing Toolbox in MATLAB to analyse the Tic-Tac-Toe board and determine the game state.
+        - Developed a model of the DOBOT arm using Peter Corke's Robotics Toolbox and programmed an analytical inverse kinematics function for the unique structure of the DOBOT arm.
+        - Implemented a GUI in App Designer to interface with the robot and provide user feedback.
 
     - title: <a href="/projects/turtlebot">Cereal Finding Robot - Sensors and Control for Mechatronic Systems</a>
       year: AUT 2021
       description: 
-        - Led team to program a TurtleBot to recognise cereal boxes, determine their position and rotation and drive towards them.
+        - Led team to program a TurtleBot to recognise markers, determine their position and orientation and drive towards them, using MATLAB with the ROS Toolbox.
+        - Exercised leadership by dividing the project between team members and developing a specification for each part, which ensured clear responsibilities and resulted in the project achieving a distinction overall.
 
     - title: <a href="/projects/aircraft-interceptor">Aircraft Interceptor - Programming for Mechatronic Systems</a>
       year: SPR 2020
@@ -88,26 +112,4 @@
     - title: Warman Challenge 2019 - Mechanical Design 1
       year: AUT 2019
       description: 
-        - Designed and build a robot to attempt the 2019 Warman Design and Build Challenge as part of a team.
-
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Technical Skills
-      items: 
-        - <b>Robot Operating System (ROS):</b> Controlling real and simulated robots in MATLAB and C++, processing incoming sensor messages, visualising using RViz.
-        - <b>C++:</b> Object oriented programming, using threads to process and send multiple streams of data, compiling using CMake, generating documentation with Doxygen.
-        - <b>MATLAB:</b> Image processing, signal processing, robotics using Peter Corke's Robotics Toolbox and ROS Toolbox, GUI programming using App Designer.
-        - <b>Microcontrollers:</b> Interfacing with sensors, controlling LCD screen and motors, using timers.
-        - <b>Git:</b> Version control and collaboration.
-        - <b>Solidworks:</b> Designing parts, performing FEA, creating assemblies, creating and interpreting technical drawings.
-        - <b>Blender:</b> Creating meshes, using modifiers, applying procedural and image-based textures.
-        - <b>Python:</b> Scripting.
-        - <b>Microsoft Excel:</b> Recording data, using formulas, creating charts, sorting and filtering data.
-    - title: Core Skills
-      items:
-        - <b>Team leadership:</b> Successfully divided work between team members, coordinated different parts of the project, organised team meetings, and ensured deadlines were met for the major robotics project in Sensors and Control.
-        - <b>Verbal communication skills:</b> Listened to requirements and drafted a formal project specification, participated in team meetings by contributing new ideas and adding to others' ideas, and gave project updates and presentations when working on the Mechanical and Mechatronic Design project with Thales.
-        - <b>Written communication skills:</b> Wrote reports, newsletters, and technology webinar invitations which were sent to an audience of over 600 water utility engineers and innovation leads while working at Isle Utilities.
-        - <b>Visual communication skills:</b> Illustrated diagrams to communicate concepts to others clearly in presentations, reports, and tutoring.
-        - <b>Time management:</b> Tracked tasks for team and individual projects using project management software, set deadlines for project milestones, worked flexibly to changing requirements, and used calendar to manage deadlines for work and university.
+        - Designed and built a robot to attempt the 2019 Warman Design and Build Challenge as part of a team.
